@@ -1,0 +1,3 @@
+/mnt/c/Users/Talha/Desktop/mycursesTUI/buildtest/CMakeFiles/form_test.dir
+/mnt/c/Users/Talha/Desktop/mycursesTUI/buildtest/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Talha/Desktop/mycursesTUI/buildtest/CMakeFiles/rebuild_cache.dir

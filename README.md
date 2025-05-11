@@ -18,7 +18,7 @@ Follow the steps below to build and install the project:
 
 3. Configure the project using the `ncurses` configuration script:
     ```bash
-    ../ncurses/configure --prefix=$(PWD)/install
+    ../ncurses-6.3/configure --prefix=$(PWD)/install
     ```
 
 4. Build the project:
